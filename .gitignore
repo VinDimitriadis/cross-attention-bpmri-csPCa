@@ -14,7 +14,7 @@ env/
 runs/
 checkpoints/
 logs/
-data/
+/data/
 *.nii
 *.nii.gz
 *.npy
